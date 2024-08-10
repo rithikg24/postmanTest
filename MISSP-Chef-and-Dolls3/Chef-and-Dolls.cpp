@@ -22,7 +22,7 @@ int main() {
             }
         }
         cout << * s.begin() << endl;
-
+        // yes
         N--;
     }
 
